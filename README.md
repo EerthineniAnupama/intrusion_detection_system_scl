@@ -125,8 +125,7 @@ python code.py
 ├── code.py / code.ipynb
 ├── KDDTrain+.txt
 ├── KDDTest+.txt
-├── results/
-│   ├── plots and graphs
+├── code.py
 └── README.md
 ```
 
