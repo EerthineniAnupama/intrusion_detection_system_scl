@@ -1,13 +1,13 @@
-# 🚀 CUDA-PSO Optimized Intrusion Detection System (IDS)
+#  CUDA-PSO Optimized Intrusion Detection System (IDS)
 
-## 📌 Overview
+##  Overview
 This project implements an advanced Intrusion Detection System (IDS) using a Neural Network optimized with Particle Swarm Optimization (PSO) and accelerated using CUDA (GPU computing).
 
 The model is trained on the NSL-KDD dataset to classify network traffic as either normal or attack.
 
 ---
 
-## 🎯 Features
+##  Features
 - Neural Network using PyTorch
 - Hyperparameter tuning using PSO
 - GPU acceleration with CUDA
@@ -16,14 +16,14 @@ The model is trained on the NSL-KDD dataset to classify network traffic as eithe
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - NSL-KDD Dataset
   - KDDTrain+.txt
   - KDDTest+.txt
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python
 - PyTorch
 - NumPy, Pandas
@@ -34,7 +34,7 @@ The model is trained on the NSL-KDD dataset to classify network traffic as eithe
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Label encoding for categorical features
@@ -67,7 +67,7 @@ The model is trained on the NSL-KDD dataset to classify network traffic as eithe
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric     | Base Model | Optimized Model |
 |------------|-----------|----------------|
@@ -78,7 +78,7 @@ The model is trained on the NSL-KDD dataset to classify network traffic as eithe
 
 ---
 
-## ⚡ Performance
+##  Performance
 
 - CPU Execution Time: 52.4 minutes  
 - GPU Execution Time: 4.5 minutes  
@@ -86,7 +86,7 @@ The model is trained on the NSL-KDD dataset to classify network traffic as eithe
 
 ---
 
-## 📈 Outputs
+##  Outputs
 - PSO convergence graph
 - Confusion matrix
 - Performance comparison charts
@@ -95,7 +95,7 @@ The model is trained on the NSL-KDD dataset to classify network traffic as eithe
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone Repository
 ```bash
@@ -117,7 +117,7 @@ python code.py
 ```
 
 
-📁 Project Structure
+Project Structure
 ```
 
 
@@ -129,7 +129,7 @@ python code.py
 └── README.md
 ```
 
-🧠 Conclusion
+ Conclusion
 
 The CUDA-PSO optimized model significantly improves both performance and computation speed compared to the baseline neural network.
 
